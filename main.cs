@@ -16,8 +16,7 @@ class MainClass
     
 
     for(int i=0; i<numbers.Length; i++)    
-    {     
-      
+    {      
       Console.WriteLine("Enter a number");
       numbers[i] = Convert.ToInt32(Console.ReadLine());
     }
