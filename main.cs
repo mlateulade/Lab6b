@@ -9,10 +9,8 @@ class MainClass
     
     int[] numbers = new int[10];  
     int[] OddNum = new int[10];
-    Array.Reverse(OddNum);
     int OddCounter = 0;  
     int[] EvenNum = new int[10];
-    Array.Sort(EvenNum);
     int EvenCounter = 0;
     
     
